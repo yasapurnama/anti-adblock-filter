@@ -1,0 +1,10 @@
+! Title: Anti Adblock Filter
+! Author: Purnama Yasa
+! Homepage: https://github.com/yasapurnama/anti-adblock-filter
+! Support: https://github.com/yasapurnama/anti-adblock-filter/issues
+! Contribution: https://github.com/yasapurnama/anti-adblock-filter/pulls
+! WritingRules: https://adblockplus.org/filters
+! ------------------------ Anti Adblock Filter ------------------------
+/arlinablock.js*$script,match-case
+/levelmaxblock.js*$script,match-case
+/AdblockRampok.js*$script,match-case
