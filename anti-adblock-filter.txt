@@ -9,3 +9,4 @@
 /arlinablock.js*$script,match-case
 /levelmaxblock.js*$script,match-case
 /AdblockRampok.js*$script,match-case
+/fuckadblock.js*$script,match-case
